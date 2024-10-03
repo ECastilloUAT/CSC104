@@ -1,0 +1,28 @@
+body{
+	background-color: lightgray;
+	color: #ffffff;
+}
+
+h1{
+	color: #000000;
+	font-family: times new roman, serif;
+}
+
+h2{
+	color: #980000;
+	font-family: times new roman, serif;
+}
+
+h3{
+	color: #ff0000;
+	font-family: times new roman, serif;
+}
+
+p{
+	color: #000000;
+	font-family: times new roman, serif;
+}
+
+a:visited{
+	color: rgb(0, 17, 255);
+}
